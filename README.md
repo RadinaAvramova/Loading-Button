@@ -1,2 +1,1 @@
-# Loading-Button
-Loading Button
+# Loading Button
